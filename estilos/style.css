@@ -20,6 +20,15 @@ main {
     height: 100vh;
     position: relative;
 }
+
+section#redes-sociais img {
+    float: right;
+    width: 100px;
+    height: 100px;
+    padding: 35px;
+    border-radius: 70px;
+}
+
 section#telefone {
     position: absolute;
     transform: translate(-50%, -50%);
@@ -36,3 +45,4 @@ section#telefone {
     width: 269px;
     height: 471px;
 }
+
